@@ -1,0 +1,7 @@
+from vowelsmodu import  count_vowels
+from decendingmod import sort_numbers
+from locatemod import find_i_in_sentence
+from mariomod import print_right_aligned_triangle, fill_right_side_stars
+from multiplicaionmod import generate_multiplication_lists
+from validationmod import get_valid_name
+from multiplicationnmod import print_multiplication_table
